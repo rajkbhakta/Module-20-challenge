@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/module-20-challenge/static/css/main.21b3cdba.css",
+    "main.js": "/module-20-challenge/static/js/main.d834df7a.js",
+    "static/media/led-wall.jpg": "/module-20-challenge/static/media/led-wall.d6c3629cf4bfed9d80a5.jpg",
+    "static/media/surf-report.jpg": "/module-20-challenge/static/media/surf-report.dbbbb9eb984ee5da6f64.jpg",
+    "static/media/run-buddy.jpg": "/module-20-challenge/static/media/run-buddy.0d2652b80a0b89add524.jpg",
+    "static/media/calculator.jpg": "/module-20-challenge/static/media/calculator.a5b0e01bf01aa202785d.jpg",
+    "static/media/pastel-puzzles.jpg": "/module-20-challenge/static/media/pastel-puzzles.1fd12a3a56826d20b5e9.jpg",
+    "index.html": "/module-20-challenge/index.html",
+    "main.21b3cdba.css.map": "/module-20-challenge/static/css/main.21b3cdba.css.map",
+    "main.d834df7a.js.map": "/module-20-challenge/static/js/main.d834df7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b3cdba.css",
+    "static/js/main.d834df7a.js"
+  ]
+}
